@@ -1,6 +1,10 @@
 **netstat** > ver conexões ativas
--# uso: netstat [-a] [-b] [-e] [-f] [-i] [-n] [-o] [-p proto] [-r] [-s] [-t] [-x] [-y] 
   
 **systeminfo** > informações do computador, auto-explicativo
--# exemplo: systeminfo
-**dir / ls / get-childitem ** > mostrar oque contém no diretório
+
+**dir / ls / get-childitem** > mostrar oque contém no diretório
+
+**nslookup** > mostrar informações do servidor dns conectado ao computador (ip e hostname)
+
+**tracert** > mostra e rastreia o caminho percorrido por pacotes de dados em sites ou ips
+exemplo: tracert microsoft.com
