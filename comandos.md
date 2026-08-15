@@ -1,4 +1,4 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Windows_Server_logo.svg" width="200" height="90"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Windows_Server_logo.svg" width="360" height="90"/>
 
 **echo** > mostrar se o echo está ativo
 
