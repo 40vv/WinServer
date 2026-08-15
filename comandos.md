@@ -22,7 +22,7 @@
 
 **ping** > testar a comunicação entre um servidor ou computador
 
-**whoami** > "quem sou eu" mostra qual(is) usuário(s) estão conectados na máquina
+**whoami** > "quem sou eu" mostra qual(is) usuário(s) está(ão) conectado(s) na máquina
 
 **whoami /user** > mostra seu usuário e seu identificador de segurança (algo como A-X-X-XX-XXXXXXXXX-XXXXXXXXX-XXXXXXXXXX-XXXX se criptografado)
 
