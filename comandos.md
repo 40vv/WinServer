@@ -38,7 +38,7 @@
 
 **time /t** > mostra o horário atual
 
-**find "palavra" arquivo.txt** > procura a palavra especificada dentro do arquivo alvo
+**find "..." arquivo.txt** > procura a palavra especificada dentro do arquivo alvo
 
 **<comando> | more** > exibe comandos grandes em página (por exemplo: **dir | more**)
 
