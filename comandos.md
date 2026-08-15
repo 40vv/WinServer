@@ -1,6 +1,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Windows_Server_logo.svg" width="650" height="90"/>
 
-## vários comandos, não tem ordem correta
+## Comandos de Windows Server
 
 **echo** > mostrar se o echo está ativo
 
