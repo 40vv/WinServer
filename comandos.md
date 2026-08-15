@@ -1,4 +1,4 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Windows_Server_logo.svg" width="650" height="90"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Windows_Server_logo.svg" width="500" height="70"/>
 
 ## Comandos de Windows Server
 
