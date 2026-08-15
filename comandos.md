@@ -1,3 +1,5 @@
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Windows_Server_logo.svg"/>
+
 **echo** > mostrar se o echo está ativo
 
 **echo off** ocultar exibições de comandos quando executar em um script (.bat por exemplo)
