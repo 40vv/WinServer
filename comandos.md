@@ -1,6 +1,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Windows_Server_logo.svg" width="650" height="90"/>
 
-## dos comandos mais simples até os mais complexos
+## vários comandos, não tem ordem correta
 
 **echo** > mostrar se o echo está ativo
 
@@ -33,6 +33,8 @@
 **shutdown /a** > cancela o desligamento do computador (coloquei esse separado porque é útil as vezes)
 
 **type arquivo.txt** > basicamente o "cat" no linux
+
+**findstr "..." arquivo.txt** > procura no pc inteiro o nome do arquivo especificado com a palavra tal
 
 **date /t** > mostra a data atual
 
